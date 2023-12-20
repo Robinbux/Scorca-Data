@@ -26,4 +26,5 @@ The project is organized into several key directories, each containing specific 
 
 For the agent logic, please refer to the [Scorca repository](https://github.com/Robinbux/Scorca).
 
-And for any further questions you can reach out to rb.stoehr@gmail.com
+- Contact Robin in case of any inquiry (rb.stoehr@gmail.com)
+- ⁠The licence is CC-BY-ND 4.0.
