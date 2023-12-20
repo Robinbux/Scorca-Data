@@ -1,7 +1,7 @@
 # Scorca Data
 This repository contains data collected during multiple tests of the Scorca agent.
 
-This data was used to generate the various graphs seen in the ICAART paper titled ***Knowledge Modelling, Strategy Designing, and Agent Engineering for Reconnaissance Blind Chess***, and to forge decisions for the agent, i.e. with which strategy to go and which hyperparameters to use.
+This data was used to generate the various plots seen in the ICAART paper titled ***Knowledge Modelling, Strategy Designing, and Agent Engineering for Reconnaissance Blind Chess***, and to forge decisions for the agent, i.e. with which strategy to go and which hyperparameters to use.
 
 It also contains multiple scripts used to generate the plots in the paper.
 
